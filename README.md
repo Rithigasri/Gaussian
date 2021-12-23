@@ -11,7 +11,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 1. Import numpy.
 2. Import sys.
 3. Give the input.
-4. Use for nested for loop to bring the matrix into row echelon form.
+4. Use nested for loop to bring the matrix into row echelon form.
 5. Use nested for loop to do back substitution.
 6. Print the Output.
 
